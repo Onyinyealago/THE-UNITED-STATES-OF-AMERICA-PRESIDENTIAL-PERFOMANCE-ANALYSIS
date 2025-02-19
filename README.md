@@ -118,6 +118,18 @@ Top 5 years with the highest FDI are 2004, 2007, 2011, 2020 and 2014.
 Bottom 5 years with the least FDI are 2018, 2015, 2019, 2000 and 2016.
 George H. W. Bush is the president that had the most occurrence of negative FDI values.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Foreign%20Direct%20Investment.png)
+
+**4. Unemployment Rate with Advanced Education by President**
+
+This visual showcases the unemployment rates for individuals with advanced education, segmented by U.S. presidents. The results reveal that Presidential economic policies and global economic events likely influenced advanced education unemployment, with minor gender disparity in this specific metric. This emphasizes the importance of policies that adapt to economic changes to maintain employment levels for highly educated individuals
+
+**5. Average Youth Unemployment Rate (15-24 years) by President**
+
+This chart displays the average youth unemployment rate for each president's term, focusing on ages 15-24. The analysis reveals Youth unemployment rates fluctuate based on economic conditions, with higher rates observed during recession periods. Economic recovery efforts seem to positively impact youth employment, as seen in recent years
+
+
+
 
 
 
