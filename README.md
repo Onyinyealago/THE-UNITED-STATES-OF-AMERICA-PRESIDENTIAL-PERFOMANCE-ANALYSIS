@@ -150,6 +150,15 @@ The line chart below shows that females have  higher life expectancy than males.
 
 The chart below shows the average number of hospital beds per 1,000 people in the U.S. during different presidential administrations. The Chart indicates a decline overtime  with George H.W Bush  having the highest average at 4.8 beds per 1,000 people, and Joe Biden along with Trump having the lowest.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Average%20hospital%20beds.png)
+
+**9. Average Mortality rate by gender**
+
+This chart reaveals that for every administration, the mortality rate for the male gender than for the females.
+
+
+
+
 
 
 
