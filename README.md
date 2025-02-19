@@ -77,6 +77,27 @@ This analysis was done using five different tables and each table contains the f
 ## Data Modeling/Connection:
 This analysis centered on the USA Presidents table, serving as the core fact table, with all related tables joined through a one-to-one relationship via the ‘year’ column.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Data%20Modeling%20Process.png)
+
+## Data Analysis:
+The analysis was shared between group members, dealing with the income and expenditure, population and health segment, Education and Unemployment rate in the US public sector.
+
+### KEY PERFORMANCE INDICATOR ANALYSIS:
+- Total Foreign Investment amounts to $207.33bn
+- The Average inflation rate is 2.69%
+- Average Education Expenditure amounts to 16.10%
+- Average number of Hospital beds is 3.38
+
+**1. INCOME AND EXPENDITURE**
+
+Average Inflation Rate by Presidents:
+
+This visual shows the average inflation rate during the tenure of each president in each political party.
+
+**Detailed Breakdown:**
+The Democratic Party was responsible for both the highest (5.61%) and lowest (1.36%) inflation rate experienced in a tenure within the scope of this analysis.
+Within last three tenures of leadership, the average inflation rate has been on a rise, from 1.3% (Barrack Obama), to 1.9% (Donald Trump) to 5.61% (Joe Biden) with Joe Biden having the overall highest average inflation rate.
+
 
 
 
