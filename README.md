@@ -156,6 +156,35 @@ The chart below shows the average number of hospital beds per 1,000 people in th
 
 This chart reaveals that for every administration, the mortality rate for the male gender than for the females.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Average%20Mortality%20rate%20by%20gender.png)
+
+## Insight Summary:
+
+1.	The average inflation rate has increased drastically in the current government regime.
+
+2.	Although not significantly, the average life expectancy experienced a decline between Donald Trump’s regime and the current regime.
+
+3.	Using the FDI metrics, the current government has attracted more investments from foreign countries than it has invested in other countries.
+
+4.	There was a reduction in the unemployment rate in citizens with advanced education in recent times which can be attributed to the increase in government expenditure on Education in Joe Biden’s government.
+
+## Recommendation:
+
+1.	Anti-inflationary policy measures:
+The Government should prioritize policies aimed at stabilizing inflation, espiecially in times of economic recovery or expansion to avoid steep increases.This can include careful management of interest rates and fiscal policies to maintain stable prices and ensure regular monitoring and analysis of inflation of historical data can help prevent repeating factors leading to high inflation.
+
+2.	Encourage entrepreneurship and innovation:
+Highly educated individuals are more likely to create new businesses or engage in advanced research. Policies that encourage entrepreneurship , access to venture capital and funding for research can help absorb highly skilled workers and reduce unemployment in the economy.
+
+3.	Increase in Education expenditure:
+The Government should consider increasing  education spending  back to previous levels in order to address gaps that may have widened during the recent downturn.
+
+4.	Health Capacity:
+Government should invest in new hospitals and upgrade the existing ones to ensure patients demand are handled. The COVID 19 pandemic revealed the fragility of healthcare system. Government should invest in disaster preparedness plans that include  increasing hospital beds availability during surges.
+
+## Conclusion:
+By implementing the above recommendations,the combined efforts will contribute to a more flexible economy and a better quality of life for its citizens.
+
 
 
 
