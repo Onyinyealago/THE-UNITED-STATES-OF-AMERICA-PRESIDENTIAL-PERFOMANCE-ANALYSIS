@@ -138,6 +138,14 @@ This line chart tracks the government’s education spending as a percentage of 
 - A gradual increase in education spending from 15.21% in 1990 to a peak of 17.99% around 2000, followed by fluctuations.
 - Notable declines occurred during economic downturns, with a dip to 12.85% in recent years before a slight recovery to 16.05%.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Education%20Expenditure.png)
+
+**7. Life expectancy trend by gender**
+
+The line chart below shows that females have  higher life expectancy than males. There is a noticeable dip in both male and female life expectancies around 2020, likely due to Covid 19 pandemic,which led to an increase in mortality rate. Post 2020,there appears to be a slight recovery in life expectancy for both genders.
+
+
+
 
 
 
