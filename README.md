@@ -47,7 +47,38 @@ This analysis was done using five different tables and each table contains the f
 - Secondary GER %: This column represents the Gross Enrollment Ratio for secondary education, showing the total enrollment in secondary education as a percentage of the official age group for that level. It indicates the reach of secondary education, including over-age and under-age students.
 - Female Secondary GER %: The Gross Enrollment Ratio for females in secondary education, highlighting female access to secondary schooling and gender equity at this level.
 - Male Secondary GER %: This is the Gross Enrollment Ratio for males in secondary education, showing male access to secondary schooling and any potential disparities relative to female enrollment.
-- Tertiary GER %: The Gross Enrollment Ratio for tertiary (post-secondary) education, which includes all students enrolled in higher 
+- Tertiary GER %: The Gross Enrollment Ratio for tertiary (post-secondary) education, which includes all students enrolled in higher education as a percentage of the official age group for this level. A high tertiary GER indicates broad access to higher education.
+- Female Tertiary GER %: This column shows the Gross Enrollment Ratio for females in tertiary education, giving insights into female participation in higher education and potential gender gaps.
+- Male Tertiary GER %: The Gross Enrollment Ratio for males in tertiary education indicates male access to higher education and potential gender disparities compared to females.
+
+4. **Unemployment table (Source: Worldbank.org):**
+- Labor force, total: The total number of employable individuals
+- Life expectancy: The estimate of the average lifespan of the population
+- Net migration: the difference between immigrants and emigrants in a particular year
+- Population, total: The total population of both male and female in a year
+- Population,Female: Total number of the female gender
+- Population, Male: Total number of the male gender
+- Population Density:
+- Unemployment with advanced education, female:  Female individuals with higher education credentials who are unable to find employment or are not currently working.
+- Unemployment with advanced education, Male: Percentage of male individuals with higher education credentials who are unable to find employment or are not currently working.
+- Unemployment with Intermediate education: Percentage of Individuals with Education beyond secondary school but not necessarily leading to university degree. Students with practical skills and knowledge for workforce but who are not currently working.
+
+5. **Health table (Source: Worldbank.org)**
+- Year: The year each corresponding value was retrieved
+- Life expectancy at birth, (total): The average number of years a newborn is expected to live if the prevailing mortality rate remains constant throughout their life.
+- Life expectancy at birth,(Male): The average number of years a male newborn is expected to live if the prevailing mortality rate remains constant throughout their life.
+- Life expectancy at birth, (Female): The average number of years a Female newborn is expected to live if the prevailing mortality rate remains constant throughout their life.
+- Hospital beds (per 1,000 people): The availability of inpatient services including public, private general and specialized hospitals.
+- Number of neonatal deaths: Number of death occurring on children population with first 28 days after birth.
+- Mortality rate on infants( per 1,000 live births): Number of death occurring on children population
+- Mortality rate on adults (per 1,000 population): The probability rate of dying between the ages of 15 and 60 years.
+- Suicide mortality rate on adults (per 1,000 population): Number of death by suicide.
+
+## Data Modeling/Connection:
+This analysis centered on the USA Presidents table, serving as the core fact table, with all related tables joined through a one-to-one relationship via the ‘year’ column.
+
+
+
 
 
 
