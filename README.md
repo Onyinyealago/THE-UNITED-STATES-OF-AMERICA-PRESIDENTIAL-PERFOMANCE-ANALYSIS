@@ -144,6 +144,13 @@ This line chart tracks the government’s education spending as a percentage of 
 
 The line chart below shows that females have  higher life expectancy than males. There is a noticeable dip in both male and female life expectancies around 2020, likely due to Covid 19 pandemic,which led to an increase in mortality rate. Post 2020,there appears to be a slight recovery in life expectancy for both genders.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Life%20expectancy%20trend%20by%20gender.jpg)
+
+**8. Average hospital beds(per 1,000 people)**
+
+The chart below shows the average number of hospital beds per 1,000 people in the U.S. during different presidential administrations. The Chart indicates a decline overtime  with George H.W Bush  having the highest average at 4.8 beds per 1,000 people, and Joe Biden along with Trump having the lowest.
+
+
 
 
 
