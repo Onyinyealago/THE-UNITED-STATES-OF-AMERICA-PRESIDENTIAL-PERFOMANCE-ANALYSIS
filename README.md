@@ -124,9 +124,20 @@ George H. W. Bush is the president that had the most occurrence of negative FDI 
 
 This visual showcases the unemployment rates for individuals with advanced education, segmented by U.S. presidents. The results reveal that Presidential economic policies and global economic events likely influenced advanced education unemployment, with minor gender disparity in this specific metric. This emphasizes the importance of policies that adapt to economic changes to maintain employment levels for highly educated individuals
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Unemployment%20Rate.png)
+
 **5. Average Youth Unemployment Rate (15-24 years) by President**
 
 This chart displays the average youth unemployment rate for each president's term, focusing on ages 15-24. The analysis reveals Youth unemployment rates fluctuate based on economic conditions, with higher rates observed during recession periods. Economic recovery efforts seem to positively impact youth employment, as seen in recent years
+
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Avg%20Youth%20Unemployment%20Rate.png)
+
+**6. Education Expenditure (% of GDP) Over Time**
+
+This line chart tracks the government’s education spending as a percentage of GDP from 1990 onwards. The trends reveal:
+- A gradual increase in education spending from 15.21% in 1990 to a peak of 17.99% around 2000, followed by fluctuations.
+- Notable declines occurred during economic downturns, with a dip to 12.85% in recent years before a slight recovery to 16.05%.
+
 
 
 
