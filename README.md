@@ -88,7 +88,7 @@ The analysis was shared between group members, dealing with the income and expen
 - Average Education Expenditure amounts to 16.10%
 - Average number of Hospital beds is 3.38
 
-**1. INCOME AND EXPENDITURE**
+**1. Income and Expenditure**
 
 Average Inflation Rate by Presidents:
 
@@ -97,6 +97,16 @@ This visual shows the average inflation rate during the tenure of each president
 **Detailed Breakdown:**
 The Democratic Party was responsible for both the highest (5.61%) and lowest (1.36%) inflation rate experienced in a tenure within the scope of this analysis.
 Within last three tenures of leadership, the average inflation rate has been on a rise, from 1.3% (Barrack Obama), to 1.9% (Donald Trump) to 5.61% (Joe Biden) with Joe Biden having the overall highest average inflation rate.
+
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Avg%20Inflation.png)
+
+**2. Total Gross Net Income by Presidents**
+
+This chart shows the total GNI of each president during their tenure.
+
+**Detailed Breakdown:**
+Barrack Obama had the highest total GNI of $138.8tn, followed by George W. Bush with $122.0tn. The least total GNI was by George H. W. Bush with $29.1tn.
+
 
 
 
