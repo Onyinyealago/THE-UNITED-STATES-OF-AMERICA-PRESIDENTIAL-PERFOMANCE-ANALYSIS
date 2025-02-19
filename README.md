@@ -79,6 +79,10 @@ This analysis centered on the USA Presidents table, serving as the core fact tab
 
 ![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Data%20Modeling%20Process.png)
 
+## Dashboard Overview - Interact here
+
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Dashboard.png)
+
 ## Data Analysis:
 The analysis was shared between group members, dealing with the income and expenditure, population and health segment, Education and Unemployment rate in the US public sector.
 
