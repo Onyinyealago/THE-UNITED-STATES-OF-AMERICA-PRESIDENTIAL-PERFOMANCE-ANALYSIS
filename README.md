@@ -107,8 +107,16 @@ This chart shows the total GNI of each president during their tenure.
 **Detailed Breakdown:**
 Barrack Obama had the highest total GNI of $138.8tn, followed by George W. Bush with $122.0tn. The least total GNI was by George H. W. Bush with $29.1tn.
 
+![](https://github.com/Onyinyealago/THE-UNITED-STATES-OF-AMERICA-PRESIDENTIAL-PERFOMANCE-ANALYSIS/blob/main/Total%20Gross%20Net%20Income%20by%20Presidents.png)
 
+**3. Foreign Direct Investment**
 
+This chart shows the total net federal direct investment over the years. The blue bars represent positive values while the red bars represent negative values. The negative values appear in years where the total investment export were more than the total investment import.
+
+**Detailed Breakdown:**
+Top 5 years with the highest FDI are 2004, 2007, 2011, 2020 and 2014.
+Bottom 5 years with the least FDI are 2018, 2015, 2019, 2000 and 2016.
+George H. W. Bush is the president that had the most occurrence of negative FDI values.
 
 
 
